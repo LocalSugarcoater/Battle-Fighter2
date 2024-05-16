@@ -377,7 +377,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -403,7 +403,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 45155,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2438,7 +2438,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 52748,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2464,7 +2464,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 92293,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2"
@@ -3118,7 +3118,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 100424,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3144,7 +3144,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 151585,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -3809,7 +3809,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 159344,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -3835,7 +3835,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 195987,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2"
@@ -4406,7 +4406,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 204451,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4432,7 +4432,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 238543,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -4956,7 +4956,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 247110,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -4982,7 +4982,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 283999,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -5517,7 +5517,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 292560,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -5543,7 +5543,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 358069,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -6334,7 +6334,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 366156,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -6360,7 +6360,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 402522,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -6881,7 +6881,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 410520,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -6907,7 +6907,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 445312,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -7422,7 +7422,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 453881,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -7448,7 +7448,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 489494,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -7965,7 +7965,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 498103,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -7991,7 +7991,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 532509,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -8497,7 +8497,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 541084,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -8523,7 +8523,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 578723,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -9069,7 +9069,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 587001,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -9095,7 +9095,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 625718,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2"
@@ -9655,7 +9655,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 633998,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -9681,7 +9681,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 668435,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -10191,7 +10191,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 676977,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -10217,7 +10217,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 763440,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -11132,7 +11132,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 771738,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11158,7 +11158,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 808500,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -11685,7 +11685,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 816495,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.UnityAdditionalFile.txt"
@@ -11711,7 +11711,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 856606,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.rsp2"
@@ -12300,7 +12300,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 864964,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -12326,7 +12326,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 898841,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -12851,7 +12851,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 907482,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -12877,7 +12877,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 945629,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -13474,7 +13474,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 953966,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -13500,7 +13500,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 992207,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -14072,7 +14072,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1000828,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -14098,7 +14098,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1058903,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -14876,7 +14876,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1067530,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -14902,7 +14902,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1158294,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -15896,7 +15896,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1166938,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -15922,7 +15922,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1248811,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -16815,7 +16815,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1257205,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -16841,7 +16841,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1311528,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -17560,7 +17560,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1320356,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -17586,7 +17586,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1356235,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -18112,7 +18112,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1364713,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.UnityAdditionalFile.txt"
@@ -18138,7 +18138,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1405635,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.rsp2"
@@ -18736,7 +18736,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1414364,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -18762,7 +18762,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1449759,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -19330,7 +19330,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1458790,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -19356,7 +19356,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1500990,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -19946,7 +19946,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1510011,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -19972,7 +19972,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1544359,
       "PayloadLength": 30,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\My project (3)\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Battle-Fighter\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -20517,7 +20517,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1553457,
       "PayloadLength": 17,
-      "PayloadDebugContentSnippet": "D:\\My project (3)",
+      "PayloadDebugContentSnippet": "D:\\Battle-Fighter",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -22156,7 +22156,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\My project (3)\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"D:\\My project (3)\\Library\\ScriptAssemblies\\Cinemachine.dll\" -a=\"D:\\My project (3)\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\My project (3)\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\My project (3)\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"D:\\My project (3)\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"D:\\My project (3)\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"D:\\My project (3)\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\My project (3)\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\My project (3)\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"D:\\My project (3)\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"D:\\My project (3)\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"D:\\My project (3)\\Library\\ScriptAssemblies\" -s=\"D:\\My project (3)\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"D:\\My project (3)\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"D:\\My project (3)\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\Battle-Fighter\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"D:\\Battle-Fighter\\Library\\ScriptAssemblies\\Cinemachine.dll\" -a=\"D:\\Battle-Fighter\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\Battle-Fighter\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\Battle-Fighter\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"D:\\Battle-Fighter\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"D:\\Battle-Fighter\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"D:\\Battle-Fighter\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\Battle-Fighter\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\Battle-Fighter\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"D:\\Battle-Fighter\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"D:\\Battle-Fighter\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"D:\\Battle-Fighter\\Library\\ScriptAssemblies\" -s=\"D:\\Battle-Fighter\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"D:\\Battle-Fighter\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"D:\\Battle-Fighter\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -22450,6 +22450,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
-  "PayloadsFile": "D:/My project (3)/Library/Bee/1900b0aE.dag.payloads",
+  "PayloadsFile": "D:/Battle-Fighter/Library/Bee/1900b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }

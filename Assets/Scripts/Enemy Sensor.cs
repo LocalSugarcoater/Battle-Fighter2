@@ -15,6 +15,7 @@ public class EnemySensor : MonoBehaviour
     public GameObject CurrentlyLockedTarget;
     [SerializeField] CinemachineFreeLook playercamera;
     [SerializeField] CinemachineTargetGroup targetGroup;
+    [SerializeField] CinemachineVirtualCamera lockoncamera;
     [SerializeField] Camera maincamera;
     public bool cameralockedon = false;
     
@@ -23,6 +24,7 @@ public class EnemySensor : MonoBehaviour
     {
         playerscript = Playerobject.GetComponent<PlayerMovement>();
         targetGroup.AddMember(Playerobject.transform, 2f, 0f);
+        lockoncamera.enabled = false;
     }
 
     // Update is called once per frame
@@ -135,7 +137,33 @@ public class EnemySensor : MonoBehaviour
         Sensedgameobjects.Remove(Sensorcolliderexit.gameObject);
 
     }
-    
+
+    public void SetCameraAngle(GameObject LockOnTarget)
+    {
+        playercamera.enabled = false;
+        lockoncamera.enabled = true;
+        targetGroup.AddMember(LockOnTarget.transform, 1f, 0f);
+        lockoncamera.LookAt = LockOnTarget.transform;
+        lockoncamera.Follow = Playerobject.transform;
+        //playercamera.Follow = targetGroup.transform;
+        CurrentlyLockedTarget = LockOnTarget;
+        cameralockedon = true;
+    }
+
+    public void ResetCameraAngle()
+    {
+        lockoncamera.enabled = false;
+        playercamera.enabled = true;
+        targetGroup.RemoveMember(CurrentlyLockedTarget.transform);
+        playercamera.LookAt = Playerobject.transform;
+        playercamera.Follow = Playerobject.transform;
+        playercamera.m_YAxis.m_InputAxisName = "Vertical Camera";
+        playercamera.m_XAxis.m_InputAxisName = "Horizontal Camera";
+        CurrentlyLockedTarget = null;
+        cameralockedon = false;
+    }
+
+    /*
     public void SetCameraAngle(GameObject LockOnTarget)
     {
 
@@ -156,7 +184,7 @@ public class EnemySensor : MonoBehaviour
         CurrentlyLockedTarget = null;
         cameralockedon = false;
     }
-
+    */
     /*
     public void SetCameraAngle(GameObject LockOnTarget)
     {
