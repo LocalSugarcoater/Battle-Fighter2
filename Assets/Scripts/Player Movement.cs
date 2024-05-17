@@ -34,14 +34,11 @@ public class PlayerMovement : MonoBehaviour
             horizontalinput = 0;
             verticalinput = 0;
         }
+
         Vector3 direction = new Vector3(horizontalinput, 0f, verticalinput);
         targetangle = Mathf.Atan2(direction.x, direction.z) * Mathf.Rad2Deg + cam.eulerAngles.y;
-        if (!enemysensorscript.cameralockedon)
-        {
-            float angle = Mathf.SmoothDampAngle(transform.eulerAngles.y, targetangle, ref turnsmoothvelocity, TurnSmoothTime);
-            transform.rotation = Quaternion.Euler(0f, angle, 0f);
-        }
-        else
+
+        if (enemysensorscript.cameralockedon)
         {
             directiontoenemy = enemysensorscript.CurrentlyLockedTarget.transform.position - transform.position;
             directiontoenemy.y = 0;
@@ -50,11 +47,18 @@ public class PlayerMovement : MonoBehaviour
             transform.rotation = player_rotation;
         }
 
-
-
-        if (direction.magnitude >= 0.1f)
+        if (direction.magnitude >= 0.1f && enemysensorscript.cameralockedon)
         {
             
+
+            Vector3 movedirection = Quaternion.Euler(0f, targetangle, 0f) * Vector3.forward;
+            transform.position = new Vector3(transform.position.x + (movedirection.x * PlayerSpeed * Time.deltaTime), transform.position.y, transform.position.z);
+            transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + (movedirection.z * PlayerSpeed * Time.deltaTime));
+        }
+        else if (direction.magnitude >= 0.1f)
+        {
+            float angle = Mathf.SmoothDampAngle(transform.eulerAngles.y, targetangle, ref turnsmoothvelocity, TurnSmoothTime);
+            transform.rotation = Quaternion.Euler(0f, angle, 0f);
 
             Vector3 movedirection = Quaternion.Euler(0f, targetangle, 0f) * Vector3.forward;
             transform.position = new Vector3(transform.position.x + (movedirection.x * PlayerSpeed * Time.deltaTime), transform.position.y, transform.position.z);
