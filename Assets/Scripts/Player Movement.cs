@@ -14,6 +14,7 @@ public class PlayerMovement : MonoBehaviour
     Transform enemytransform;
     Quaternion player_rotation;
     Vector3 directiontoenemy;
+    public Vector3 direction;
     float TurnSmoothTime = 0.1f;
     float turnsmoothvelocity;
     public float targetangle;
@@ -35,7 +36,7 @@ public class PlayerMovement : MonoBehaviour
             verticalinput = 0;
         }
 
-        Vector3 direction = new Vector3(horizontalinput, 0f, verticalinput);
+        direction = new Vector3(horizontalinput, 0f, verticalinput);
         targetangle = Mathf.Atan2(direction.x, direction.z) * Mathf.Rad2Deg + cam.eulerAngles.y;
 
         if (enemysensorscript.cameralockedon)
