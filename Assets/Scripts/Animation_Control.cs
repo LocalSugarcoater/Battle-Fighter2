@@ -19,11 +19,13 @@ public class Animation_Control : MonoBehaviour
         playerscript = playerobject.GetComponent<PlayerMovement>();
         lockonscript = enemysensor.GetComponent<EnemySensor>();
         playeranimator = GetComponent<Animator>();
+        AnimatorStateInfo currentanimationstate;
     }
 
     // Update is called once per frame
     void Update()
     {
+        AnimatorStateInfo currentanimationstate = playeranimator.GetCurrentAnimatorStateInfo(0);
         directionx = Input.GetAxisRaw("Horizontal");
         directiony = Input.GetAxisRaw("Vertical");
         if (playerscript.direction.magnitude > 0.1f)
@@ -35,20 +37,39 @@ public class Animation_Control : MonoBehaviour
             Playermoving = false;
         }
 
-        if (Input.GetButtonDown("Fire1"))
-        {
-            playeranimator.Play("punch" + stringcounter);
-            stringcounter = stringcounter + 1;
-        }
 
-        if (stringcounter == 3)
+        if (stringcounter == 3 && !(currentanimationstate.IsName("punch2")))
         {
             stringcounter = 0;
         }
 
-        
+        if (currentanimationstate.IsName("Idle"))
+        {
+            stringcounter = 0;
+        }
 
-        Debug.Log(directiony);
+        if ( stringcounter < 3 &&    currentanimationstate.IsName("punch" + (stringcounter - 1)))
+        {
+            if (currentanimationstate.normalizedTime > 0.8f && Input.GetButtonDown("Fire1"))
+            {
+                
+                 playeranimator.Play("punch" + stringcounter);
+                 stringcounter = stringcounter + 1;
+                
+            }
+        }
+
+        else if (stringcounter == 0 && Input.GetButtonDown("Fire1"))
+        {
+            
+             playeranimator.Play("punch" + stringcounter);
+             stringcounter = stringcounter + 1;
+            
+        }
+       
+
+
+        Debug.Log(playeranimator.GetCurrentAnimatorStateInfo(0).normalizedTime);
 
 
         playeranimator.SetBool("playermoving", Playermoving);

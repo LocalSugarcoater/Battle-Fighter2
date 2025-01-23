@@ -32,7 +32,15 @@ public class EnemySensor : MonoBehaviour
     {
         Debug.Log(targetGroup.transform);
         float directionforhitbox = playerscript.targetangle;
-        transform.rotation = Quaternion.Euler(0f, directionforhitbox, 0f);
+        if (cameralockedon)
+        {
+            transform.rotation = Playerobject.transform.rotation;
+        }
+        else
+        {
+            transform.rotation = Quaternion.Euler(0f, directionforhitbox, 0f);
+        }
+        //transform.rotation = Quaternion.Euler(0f, directionforhitbox, 0f);
         
         if (cameralockedon && Vector3.Distance(CurrentlyLockedTarget.transform.position, Playerobject.transform.position) > 10)
         {

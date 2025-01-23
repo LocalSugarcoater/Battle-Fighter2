@@ -1707,8 +1707,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1.4844692}
-  m_Center: {x: 0, y: 0, z: 0.72173613}
+  m_Size: {x: 1, y: 1, z: 1.8695515}
+  m_Center: {x: 0, y: 0, z: 0.9142767}
 --- !u!114 &1518868477
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1903,7 +1903,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1947988304}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.069038786, y: -0.000000017165327, z: 0.0000000011879079, w: 0.99761397}
+  m_LocalRotation: {x: 0.069038786, y: 0.000000017165327, z: -0.0000000011879079, w: 0.99761397}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1929,7 +1929,7 @@ Animator:
   m_Controller: {fileID: 9100000, guid: 22f24443b2cc36f4fb31bba5ee6168ff, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 0
+  m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
   m_WarningMessage: 
